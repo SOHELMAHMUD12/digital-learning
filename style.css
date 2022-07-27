@@ -23,8 +23,15 @@ body{
 footer{
     background-color: rgb(13, 14, 15);
     height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .icons {
     color: whitesmoke;
     margin-right: 20px;
+}
+.meet-pic{
+    width: 310px;
+    height: 300px;
 }
