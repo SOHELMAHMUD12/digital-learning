@@ -9,6 +9,7 @@ body{
     margin: 0;
     box-sizing: border-box;
 }
+
 .pro-text{
     Font-family: Poppins;
     Font-style: SemiBold;
@@ -34,4 +35,8 @@ footer{
 .meet-pic{
     width: 310px;
     height: 300px;
+}
+.aaa{
+    margin-left: 14px;
+    margin-right: -14px;
 }
